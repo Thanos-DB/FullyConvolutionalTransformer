@@ -20,7 +20,7 @@ The experiments in our paper are done with the TensorFlow 2 implementation. <ins
 chaitanyakaul14/fct-tf:v2
 
 ## Results
-The performance is evaluated on Dice (higher is better).
+The performance is evaluated on Dice (higher is better). We release results on the ACDC dataset to enable researchers to use our work. The rest of the results will be updated with time.
 
 | Method          		|  Avg. |  RV   |  MYO  |  LV   |
 | :---------------------------: | :---: | :---: | :---: | :---: |
