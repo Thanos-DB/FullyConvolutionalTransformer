@@ -11,7 +11,7 @@ Further information please contact [Chaitanya Kaul](https://chaitanya-kaul.githu
 
 ## Author's Implementations
 
-The experiments in our paper are done with the TensorFlow implementation. <ins>The PyTorch implementation is provided here, but is still under development and not fully tested. We will continue to update this repository with more code in both TensorFlow 2 as well as PyTorch to enable maximum reproducibility.</ins>
+The experiments in our paper are done with the TensorFlow 2 implementation. <ins>The PyTorch implementation is provided here, but is still under development and not fully tested. We will continue to update this repository with more code in both TensorFlow 2 as well as PyTorch to enable maximum reproducibility.</ins>
 
 * [TensorFlow](./TensorFlow)
 * [PyTorch](./PyTorch)
