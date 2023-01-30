@@ -1,3 +1,6 @@
+ 	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/the-fully-convolutional-transformer-for/medical-image-segmentation-on-acdc)](https://paperswithcode.com/sota/medical-image-segmentation-on-acdc?p=the-fully-convolutional-transformer-for)
+
 # The Fully Convolutional Transformer for Medical Image Segmentation
 
 ## Overview
