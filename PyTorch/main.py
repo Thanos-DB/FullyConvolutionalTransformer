@@ -262,7 +262,7 @@ class DS_out(nn.Module):
         self.layernorm = nn.LayerNorm(in_channels, eps=1e-5)
         self.conv1 = nn.Conv2d(in_channels, in_channels, 3, 1, padding="same")
         self.conv2 = nn.Conv2d(in_channels, in_channels, 3, 1, padding="same")
-        self.conv3 = nn.Conv2d(in_channels, 4, 3, 1, padding="same")
+        self.conv3 = nn.Conv2d(in_channels, out_channels, 3, 1, padding="same")
 
     def forward(self, x):
         x1 = self.upsample(x)
