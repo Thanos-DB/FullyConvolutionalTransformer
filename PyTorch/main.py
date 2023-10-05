@@ -154,10 +154,7 @@ class Transformer(nn.Module):
         x3 = self.wide_focus(x3)
         x3 = torch.add(x2, x3)
         return x3
-
-
-
-        return x       
+     
 class Wide_Focus(nn.Module): 
     """
     Wide-Focus module.
